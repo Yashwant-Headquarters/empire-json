@@ -4,7 +4,7 @@
     "name": "Tea Stall",
     "description": "A small tapri near bus stop, selling chai and biscuits.",
     "price": 50,
-    "image": "imageAssets/tea_stall.png",
+    "image": "https://raw.githubusercontent.com/Yashwant-Headquarters/empire-json/refs/heads/main/Images/tea_stall.webp",
     "incomePerSecond": 1
   },
   {
@@ -12,7 +12,7 @@
     "name": "Pan Shop",
     "description": "Earns from selling pan, gutka, and snacks.",
     "price": 100,
-    "image": "imageAssets/pan_shop.png",
+    "image": "https://github.com/Yashwant-Headquarters/empire-json/blob/main/Images/pan_shop.webp?raw=true",
     "incomePerSecond": 2
   },
   {
@@ -20,7 +20,7 @@
     "name": "Fruit Cart",
     "description": "Daily income from selling seasonal fruits on roadside.",
     "price": 200,
-    "image": "imageAssets/fruit_cart.png",
+    "image": "https://raw.githubusercontent.com/Yashwant-Headquarters/empire-json/refs/heads/main/Images/fruit_cart.webp",
     "incomePerSecond": 4
   },
   {
@@ -28,7 +28,7 @@
     "name": "Second-Hand Book Stall",
     "description": "Sells old books near railway station.",
     "price": 300,
-    "image": "imageAssets/used_book_seller.png",
+    "image": "https://raw.githubusercontent.com/Yashwant-Headquarters/empire-json/refs/heads/main/Images/used_book_seller.webp",
     "incomePerSecond": 6
   },
   {
@@ -36,7 +36,7 @@
     "name": "Tiffin Service",
     "description": "Homemade meals for office workers and students.",
     "price": 400,
-    "image": "imageAssets/local_tiffin.png",
+    "image": "https://raw.githubusercontent.com/Yashwant-Headquarters/empire-json/refs/heads/main/Images/local_tiffin.webp",
     "incomePerSecond": 8
   },
   {
@@ -44,7 +44,7 @@
     "name": "Juice Corner",
     "description": "A small setup offering fresh juice and shakes.",
     "price": 500,
-    "image": "imageAssets/juice_corner.png",
+    "image": "https://raw.githubusercontent.com/Yashwant-Headquarters/empire-json/refs/heads/main/Images/juice_corner.webp",
     "incomePerSecond": 10
   },
   {
@@ -52,7 +52,7 @@
     "name": "Mobile Repair Shop",
     "description": "Fixing screens and selling mobile covers.",
     "price": 600,
-    "image": "imageAssets/repair_shop.png",
+    "image": "https://raw.githubusercontent.com/Yashwant-Headquarters/empire-json/refs/heads/main/Images/repair_shop.webp",
     "incomePerSecond": 12
   },
   {
@@ -60,7 +60,7 @@
     "name": "Laundry Service",
     "description": "Washing and ironing clothes for nearby houses.",
     "price": 750,
-    "image": "imageAssets/dhobi.png",
+    "image": "https://raw.githubusercontent.com/Yashwant-Headquarters/empire-json/refs/heads/main/Images/dhobi.webp",
     "incomePerSecond": 14
   },
   {
@@ -68,7 +68,7 @@
     "name": "Cycle Rental",
     "description": "Renting cycles to school students and villagers.",
     "price": 900,
-    "image": "imageAssets/cycle_rent.png",
+    "image": "https://raw.githubusercontent.com/Yashwant-Headquarters/empire-json/refs/heads/main/Images/cycle_rent.webp",
     "incomePerSecond": 16
   },
   {
@@ -76,7 +76,7 @@
     "name": "Namkeen Stall",
     "description": "Sells samosa, kachori, and local snacks.",
     "price": 1200,
-    "image": "imageAssets/local_snacks.png",
+    "image": "https://raw.githubusercontent.com/Yashwant-Headquarters/empire-json/refs/heads/main/Images/local_snacks.webp",
     "incomePerSecond": 18
   }
 ]
